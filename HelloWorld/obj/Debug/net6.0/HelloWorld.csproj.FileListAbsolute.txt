@@ -1,0 +1,15 @@
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/jj_home/cappuccino_codes/learning_c#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
